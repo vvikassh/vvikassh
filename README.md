@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=1F75FE&center=true&width=435&lines=I+code+in+Java%2C+Python%2C+C%2C+and+more!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&width=435&lines=I+code+in+Java%2C+Python%2C+C%2C+and+more!" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vim,docker,git,github,hadoop,spark" alt="Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=linux,vim,docker,git,github,hadoop,spark,react,nodejs,mongodb,express" alt="Tools Icons" />
 </div>
 
 ---
@@ -57,7 +57,7 @@
 
 - Designing and deploying scalable applications  
 - Working on Big Data ecosystems using **Hadoop & Apache Spark**  
-- Enhancing proficiency in system design and architecture
+- Enhancing proficiency in system design and architecture  
 
 ---
 
