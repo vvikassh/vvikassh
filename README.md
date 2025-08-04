@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&width=435&lines=I+code+in+Java%2C+Python%2C+C%2B%2B%2C+JavaScript%2C+Bash%2C+SQL%2C+and+more!" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&width=435&lines=I+code+in+Java%2C+Python%2C+C%2C+and+more!" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Undergraduate at Lovely Professional University  
-- 🧠 I primarily develop using **Java** but also build tools using Python, C++, JavaScript, and SQL  
+- 🧠 I primarily develop using **Java** but also build tools using Python, C, JavaScript, and SQL  
 - 🧩 Love solving real-world problems using tech  
 - 🖥️ Arch Linux and Neovim user – customization is power  
 - 🎯 Currently diving deeper into **Big Data**, **Distributed Systems**, and **DevOps**
@@ -26,7 +25,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br/>C</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br/>SQLite</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br/>Bash</td>
@@ -57,6 +56,16 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vvikassh&show_icons=true&theme=default" alt="Vikash's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvikassh&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🌍 Community Involvement
 
 - Contributor at **GirlScript Summer of Code (GSSoC)**
@@ -70,16 +79,6 @@
 - Designing and deploying scalable applications  
 - Working on Big Data ecosystems using **Hadoop & Apache Spark**  
 - Enhancing proficiency in system design and architecture  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvikassh&show_icons=true&theme=default" alt="Vikash's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvikassh&theme=default" alt="GitHub Streak" />
-</p>
 
 ---
 
