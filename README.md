@@ -1,67 +1,74 @@
-# Vikash Kumar
-
-### Aspiring Software Engineer | Linux and DevOps Enthusiast | Open Source Contributor
-
----
-
-## About Me
-
-I am a Computer Science undergraduate with a strong interest in backend development, open source, and automation. I specialize in building scalable applications and efficient workflows. I use Arch Linux and Neovim as my primary development environment. I believe in continuous learning and writing clean, maintainable code.
-
----
-
-## Languages & Tools
-
-### Languages
-- Java
-- Python
-- C
-- JavaScript
-- SQL
-
-### Tools & Technologies
-- Arch Linux
-- Neovim
-- Git & GitHub
-- Docker
-- Flask
-- SQLite
-- Hadoop
-- Tableau
-
----
-
-## Current Focus
-
-- Developing production-ready applications using Flask, SQLite, and background processing.
-- Expanding DevOps knowledge through CI/CD tools and containerization.
-- Learning data visualization and analysis with Tableau.
-
----
-
-## Open Source Contributions
-
-- Contributor at GirlScript Summer of Code (GSSoC)
-- Contributor at Hacktoberfest
-- Maintainer of [Dead Man's Switch](https://github.com/vvikassh/deadman-switch), a failsafe notification system built using Flask
-
----
-
-## GitHub Stats
-
+<h1 align="center">Hi, I'm Vikash Kumar</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvikassh&show_icons=true&theme=default" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vvikassh&theme=default" width="48%"/>
+  Passionate Software Engineer | Open Source Contributor | Linux Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvikassh&layout=compact&theme=default&langs_count=10" width="48%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=1F75FE&center=true&width=435&lines=I+code+in+Java%2C+Python%2C+C%2C+and+more!" alt="Typing SVG" />
 </p>
 
 ---
 
-## Contact
+## 🚀 About Me
 
-- Email: [vikashkumarofficial.vk@gmail.com](mailto:vikashkumarofficial.vk@gmail.com)
-- GitHub: [github.com/vvikassh](https://github.com/vvikassh)
-- LinkedIn: [linkedin.com/in/vvikassh](https://www.linkedin.com/in/vvikassh)
+- 🎓 Computer Science Undergraduate at Lovely Professional University  
+- 🧠 I primarily develop using **Java** but also build tools using Python, C, JavaScript, and SQL  
+- 🧩 Love solving real-world problems using tech  
+- 🖥️ Arch Linux and Neovim user – customization is power  
+- 🎯 Currently diving deeper into **Big Data**, **Distributed Systems**, and **DevOps**
+
+---
+
+## 💻 Languages I Work With
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,sqlite,bash" alt="Language Icons" />
+</div>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,vim,docker,git,github,hadoop,spark" alt="Tools Icons" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vvikassh&show_icons=true&theme=default" alt="Vikash's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvikassh&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌍 Community Involvement
+
+- Contributor at **GirlScript Summer of Code (GSSoC)**
+- Contributor at **Hacktoberfest**
+- Actively participate in open source collaborations
+
+---
+
+## 🎯 Current Focus
+
+- Designing and deploying scalable applications  
+- Working on Big Data ecosystems using **Hadoop & Apache Spark**  
+- Enhancing proficiency in system design and architecture
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [vvikassh](https://github.com/vvikassh)  
+- LinkedIn: [Vikash Kumar](https://www.linkedin.com/in/vvikassh)  
+- Portfolio: *(Add when available)*  
+
+---
+
+<p align="center">
+  <i>“Simplicity is the soul of efficiency.”</i>
+</p>
