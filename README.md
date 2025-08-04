@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=I+code+in+Java%2C+Python%2C+C%2B%2B%2C+JavaScript%2C+Bash%2C+SQL%2C+and+more!" alt="typing-animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&width=500&lines=%20I+code+in+Java%2C+Python%2C+C%2B%2B%2C+and+more!" alt="Typing SVG" />
 </p>
+
 
 
 ---
