@@ -53,7 +53,7 @@ Designing a modern frontend for an intelligent assistant with chat memory, anima
 
 ## 🤝 Let’s Connect
 
-- 📫 **Email:** vvikassh@gmail.com  
+- 📫 **Email:** vvikash.2526@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vvikassh)  
 - 💻 [Portfolio (coming soon)](https://vvikassh.github.io)
 
