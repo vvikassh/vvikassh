@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&width=435&lines=I+code+in+Java%2C+Python%2C+C%2B%2B%2C+and+more!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&width=435&lines=I+code+with+Java+and+all+others!" alt="Typing SVG" />
+
 </p>
 
 ---
