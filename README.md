@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Computer Science Undergraduate at Lovely Professional University  
 - 🧠 I primarily develop using **Java** but also build tools using Python, C++, JavaScript, and SQL  
@@ -88,7 +88,7 @@
 
 - GitHub: [vvikassh](https://github.com/vvikassh)  
 - LinkedIn: [Vikash Kumar](https://www.linkedin.com/in/vvikassh)  
-- Portfolio: *(Add when available)*  
+  
 
 ---
 
